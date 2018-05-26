@@ -1,0 +1,1 @@
+# shared-model-for-ecom-example
