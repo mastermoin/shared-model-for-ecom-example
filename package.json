@@ -1,0 +1,19 @@
+{
+  "name": "shared-model-for-ecom-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "product.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastermoin/shared-model-for-ecom-example.git"
+  },
+  "author": "Master Moin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastermoin/shared-model-for-ecom-example/issues"
+  },
+  "homepage": "https://github.com/mastermoin/shared-model-for-ecom-example#readme"
+}
