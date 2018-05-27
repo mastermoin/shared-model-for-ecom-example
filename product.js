@@ -1,4 +1,4 @@
-const  productSchema = {
+module.exports = {
     name :{
         type : String,
     },
@@ -9,6 +9,4 @@ const  productSchema = {
         type : Date,
         default : Date.now
     }
-};
-
-module.exports.productSchema = productSchema;
+}
